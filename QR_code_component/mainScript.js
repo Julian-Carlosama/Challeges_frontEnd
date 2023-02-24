@@ -6,9 +6,9 @@ const myQRCode = document.getElementById('QrCode');
 const qr = new QRCode(myQRCode, 
     {
         text: 'https://juliancarlosama.com/',
-        with: 150,
-        height: 250,
+        width: 150,
+        height: 150,
         colorDark: '#ffffff',
-        colorLight:'#0784F1',
+        colorLight:'#077FFF',
         correctLevel : QRCode.CorrectLevel.H
     });

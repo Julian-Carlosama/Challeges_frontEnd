@@ -1,7 +1,8 @@
 body {
     margin: 0;
+    /*width: 1440px;*/
     height: 1000px;
-    background-color: rgb(191, 226, 247);
+    background-color: hsl(212, 45%, 89%);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -13,35 +14,36 @@ body {
     align-items: center;
     width: 300px;
     height: 450px;
-    background-color: rgb(255, 255, 255);
+    background-color: hsl(0, 0%, 100%);
     border-radius: 15px;
 
 }
 
-.QrSpace {
+#QrSpace {
     width: 17em;
     height: 17em;
     margin-top: 0.8em;
-    background-color: rgb(7, 132, 241);
+    background-color: rgb(7, 127, 255);
     border-radius: 10px;
 }
 
 #QrCode {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 17em;
-    height: 17em;
-    margin-top: 25;
-    background-color: blueviolet;
-    
+    height: 17em;   
 }
 
 #TextSpace {
     padding: 0 1.2em 0 1.2em;
-    /*margin-top: 1em;*/
     height: 1.1em;
     text-align: center;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Outfit', sans-serif;
+    color: hsl(218, 44%, 22%);;
 }
 
 #TextSpace p {
     color: rgb(189, 189, 189);
+    font-size: 15px;
 }

@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    height: 1000px;
+    background-color: rgb(191, 226, 247);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#QrCardContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    height: 450px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+
+}
+
+.QrSpace {
+    width: 17em;
+    height: 17em;
+    margin-top: 0.8em;
+    background-color: rgb(7, 132, 241);
+    border-radius: 10px;
+}
+
+#QrCode {
+    width: 17em;
+    height: 17em;
+    margin-top: 25;
+    background-color: blueviolet;
+    
+}
+
+#TextSpace {
+    padding: 0 1.2em 0 1.2em;
+    /*margin-top: 1em;*/
+    height: 1.1em;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#TextSpace p {
+    color: rgb(189, 189, 189);
+}

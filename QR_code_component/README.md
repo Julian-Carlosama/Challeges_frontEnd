@@ -87,7 +87,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [https://juliancarlosama.com](https://juliancarlosama.com)
+- Website - [juliancarlosama.com](https://juliancarlosama.com)
 - Frontend Mentor - [@Julian-Carlosama](https://www.frontendmentor.io/profile/Julian-Carlosama)
 - Twitter - [@JulianCarlosam3](https://www.twitter.com/JulianCarlosam3)
 

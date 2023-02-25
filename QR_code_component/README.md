@@ -29,8 +29,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Solution URL: [Vercel](https://challenges-front-end-eta.vercel.app/) 
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/creating-that-qr-code-with-javascript-IO21LoTc5T)
+- Solution URL: [Vercel](https://challenges-front-end-mentor.vercel.app/) 
 
 ## My process
 

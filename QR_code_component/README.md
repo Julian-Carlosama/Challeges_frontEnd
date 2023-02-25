@@ -17,6 +17,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ## Overview
+## About the challenge
+
+- Create a QR code from the design in an image.
+- The code containing the this infomation [juliancarlosama.com](https://juliancarlosama.com)
 
 ### Screenshot
 

@@ -1,0 +1,36 @@
+.App {
+	text-align: center;
+}
+
+
+.Main-window {
+	min-height: 100vh;
+	/*background-color: #6821b9;*/
+	background:  linear-gradient(to right, #58369e, #5757ee, #3735d5);	
+	max-height: 100%;
+	display: flex;
+	flex-direction: column;
+	font-size: calc(10px + 2vmin);
+	color: white;
+}
+
+@media (max-width: 925px) {
+	.Main-window p {
+		font-size: 1.5rem;
+	}
+	.Main-window h2 {
+			margin: 1rem 2rem ;
+			font-size: 2rem;
+	}
+}
+
+
+@keyframes App-logo-spin {
+	from {
+		transform: rotate(0deg);
+	}
+
+	to {
+		transform: rotate(360deg);
+	}
+}
